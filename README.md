@@ -1,5 +1,5 @@
-# medical_datasets
-health data analysis and machine learning
+# medical_datasets :  health data analysis and machine learning
+
 
 
 conda env create -f adsml.yml
