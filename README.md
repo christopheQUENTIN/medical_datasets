@@ -1,4 +1,4 @@
-# medical_datasets :  health data analysis and machine learning   _WORK ON PROGRESS_
+# medical_datasets :  health data analysis, visualization and machine learning   _WORK ON PROGRESS_
 
 
 
